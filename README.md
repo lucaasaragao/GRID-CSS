@@ -1,4 +1,6 @@
-##GRID
+# CSS-GRID 
+
+## GRID
 
 - Bidimensional 
 - Divisão de toda a página em linnhas e colunas
