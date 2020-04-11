@@ -24,7 +24,7 @@
 - grid-template-columns;
 - grid-template-rowns;
 - grid-gap;
-  - grid-row-gar
+  - grid-row-gap
   - grif-columns-gap
 - grid-template-areas;
 
