@@ -25,7 +25,7 @@
 - grid-template-rowns;
 - grid-gap;
   - grid-row-gap
-  - grif-columns-gap
+  - grid-columns-gap
 - grid-template-areas;
 
 ... e mais 4 propriedades e **alinhamento**
