@@ -1,0 +1,40 @@
+/*RESET*/
+
+html, body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #7159c3;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 3fr 1fr; /*defino o tamanho das columns*/
+  grid-template-rows: 20vh 70vh 10vh; /*defino o tamanho das rows*/
+   
+}
+
+header{
+  background: yellow;
+  grid-column-start: 1; /*defino onde começa*/
+  grid-column-end: 3; /*defino onde termina*/
+}
+
+main{
+  background: blue;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+aside{
+  background: green;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+footer{
+  background: red;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
